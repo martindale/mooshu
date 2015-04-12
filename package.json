@@ -1,0 +1,30 @@
+{
+  "name": "mooshu",
+  "version": "0.0.0",
+  "description": "nodejs mud thing",
+  "main": "mooshu.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:martindale/mooshu.git"
+  },
+  "keywords": [
+    "mud",
+    "mush",
+    "mu*",
+    "telnet",
+    "game"
+  ],
+  "author": "Eric Martindale",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/martindale/mooshu/issues"
+  },
+  "homepage": "https://github.com/martindale/mooshu",
+  "dependencies": {
+    "maki": "git://github.com/martindale/maki",
+    "telnet": "0.0.1"
+  }
+}
